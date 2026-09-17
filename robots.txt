@@ -1,5 +1,3 @@
-# robots.txt untuk kolegakaryamandiri.com
-
 User-agent: *
 Allow: /
 
