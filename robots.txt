@@ -1,0 +1,7 @@
+# robots.txt untuk kolegakaryamandiri.com
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://kolegakaryamandiri.com/sitemap.xml
